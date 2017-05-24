@@ -9,3 +9,9 @@ Any theme can be
 
 
 Less variables files can be imported and changed in http://bootstrap-live-customizer.com/. This was made with/for 3.3.7 version.
+
+- slate : original
+- slate2: + red navbar
+- slate3: + blue popups
+- slate4: + some minor changes
+- slate5: + blue primary brand (same with popups)
