@@ -8,4 +8,4 @@ Any theme can be
 - linked using variable in some template language similar to: ```<link rel="stylesheet" href="{{=URL('static','css/bootstrap/%s.min.css' % BOOTSTRAP_THEME)}}"/>```
 
 
-Less variables files can be imported and changed in http://bootstrap-live-customizer.com/.
+Less variables files can be imported and changed in http://bootstrap-live-customizer.com/. This was made with/for 3.3.7 version.
